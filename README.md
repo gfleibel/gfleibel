@@ -13,7 +13,7 @@ I am a former marketing professional, currently transitioning to a career in tec
 
 😄 Pronouns: he/him
 
-⚡ Languages: Ruby, SQL, HTML/CSS, JavaScript
+⚡ Languages/Frameworks: Ruby, Ruby on Rails, SQL, HTML/CSS, JavaScript
 
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gfleibel&layout=compact">
 
