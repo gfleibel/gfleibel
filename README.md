@@ -9,7 +9,7 @@ I am a former marketing professional, currently transitioning to a career in tec
 
 🌱 I’m currently learning TDD (RSpec and Capybara)
 
-💬 Ask me about: programming, books and series
+💬 Ask me about: programming, books, series and Star Wars 
 
 😄 Pronouns: he/him
 
