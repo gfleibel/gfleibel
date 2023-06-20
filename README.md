@@ -17,6 +17,6 @@ I am a former marketing professional, currently transitioning to a career in tec
 
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gfleibel&layout=compact">
 
-🔨 Tools: Git, GitHub, Heroku, Redis, Sidekiq
+🔨 Tools: Git, GitHub, Heroku, Redis, Sidekiq, Cloudinary, Algolia
 
  📫 How to reach me: gfleibel@hotmail.com
