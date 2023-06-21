@@ -7,11 +7,11 @@ I am a former marketing professional, currently transitioning to a career in tec
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&https://troopl.com/gfleibel)](https://troopl.com/gfleibel)
 
 
-🔭 I’m currently working on Web Development using Ruby on Rails
+🔭 I’m currently working on Web Development using Ruby on Rails.
 
-🌱 I’m currently learning TDD (RSpec and Capybara)
+🌱 I’m currently learning TDD (RSpec and Capybara).
 
-💬 Ask me about: programming, books, series and Star Wars 
+💬 Ask me about: programming, books, series and Star Wars . Not The Witcher, please... I'm still traumatized by the ending... :(
 
 😄 Pronouns: he/him
 
@@ -19,6 +19,6 @@ I am a former marketing professional, currently transitioning to a career in tec
 
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gfleibel&layout=compact">
 
-🔨 Tools: Git, GitHub, Heroku, Redis, Sidekiq, Cloudinary, Algolia
+🔨 Tools: Git, GitHub, Heroku, Redis, Sidekiq, Cloudinary, Algolia, Bootstrap
 
  📫 How to reach me: gfleibel@hotmail.com
