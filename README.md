@@ -4,6 +4,8 @@ I am a former marketing professional, currently transitioning to a career in tec
 
 [![Linkedin Badge](https://img.shields.io/badge/-gabrielleibel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielleibel/)](https://www.linkedin.com/in/gabrielleibel/)
 [![Gmail Badge](https://img.shields.io/badge/-gfleibel@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gfleibel@hotmail.com)](mailto:gfleibel@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&https://troopl.com/gfleibel)](https://troopl.com/gfleibel)
+
 
 🔭 I’m currently working on Web Development using Ruby on Rails
 
