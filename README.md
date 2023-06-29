@@ -9,7 +9,7 @@ I am a former marketing professional, currently transitioning to a career in tec
 
 🔭 I’m currently working on Web Development using Ruby on Rails.
 
-🌱 I’m currently learning TDD (RSpec and Capybara).
+🌱 I’m currently learning TypeScript.
 
 💬 Ask me about: programming, books, series and Star Wars . Not The Witcher, please... I'm still traumatized by the ending... :(
 
@@ -19,6 +19,6 @@ I am a former marketing professional, currently transitioning to a career in tec
 
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gfleibel&layout=compact">
 
-🔨 Tools: Git, GitHub, Heroku, Redis, Sidekiq, Cloudinary, Algolia, Bootstrap
+🔨 Tools: Git, GitHub, TDD(RSpec), Heroku, Redis, Sidekiq, Cloudinary, Algolia, Bootstrap
 
  📫 How to reach me: gfleibel@hotmail.com
