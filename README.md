@@ -9,7 +9,7 @@ I am a former marketing professional, currently transitioning to a career in tec
 
 🔭 I’m currently working on Web Development using Ruby on Rails.
 
-🌱 I’m currently learning TypeScript.
+🌱 I’m currently learning Vue.js.
 
 💬 Ask me about: programming, books, series and Star Wars . Not The Witcher, please... I'm still traumatized by the ending... :(
 
