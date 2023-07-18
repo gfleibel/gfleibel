@@ -17,7 +17,7 @@ I am a former marketing professional, currently transitioning to a career in tec
 
 ⚡ Languages/Frameworks: Ruby, Ruby on Rails, SQL, HTML/CSS, JavaScript
 
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gfleibel&layout=compact">
+ <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gfleibel&layout=compact">
 
 🔨 Tools: Git, GitHub, TDD(RSpec), Heroku, Redis, Sidekiq, Cloudinary, Algolia, Bootstrap
 
