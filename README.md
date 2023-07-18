@@ -11,11 +11,11 @@ I am a former marketing professional, currently transitioning to a career in tec
 
 🌱 I’m currently learning Vue.js.
 
-💬 Ask me about: programming, books, series and Star Wars . Not The Witcher, please... I'm still traumatized by the ending... :(
+💬 Ask me about: programming, books, series and Star Wars.
 
 😄 Pronouns: he/him
 
-⚡ Languages/Frameworks: Ruby, Ruby on Rails, SQL, HTML/CSS, JavaScript
+⚡ Languages/Frameworks: Ruby, Ruby on Rails, SQL, HTML/CSS, JavaScript, Vue.js
 
  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gfleibel&layout=compact">
 
