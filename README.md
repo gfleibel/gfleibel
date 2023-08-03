@@ -11,7 +11,7 @@ I am a former marketing professional, currently transitioning to a career in tec
 
 💻 I’m currently working on Web Development using Ruby on Rails.
 
-🧑‍🎓 I’m currently learning Node, Express and MongoDB.
+🧑‍🎓 I’m currently learning React.
 
 💬 Ask me about: programming, books, series and Star Wars.
 
