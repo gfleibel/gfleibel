@@ -1,5 +1,3 @@
-![ObiWanKenobiHelloThereGIF](https://github.com/gfleibel/gfleibel/assets/99811494/536e6d9b-bac2-4107-8e66-949f9d352bd0)
-
 ## Hello, there! I'm Gabriel! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 
 I am a former marketing professional, currently transitioning to a career in tech! I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
