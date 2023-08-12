@@ -9,13 +9,13 @@ I am a former marketing professional, currently transitioning to a career in tec
 
 💻 I’m currently working on Web Development using Ruby on Rails.
 
-🧑‍🎓 I’m currently learning React.
+🧑‍🎓 I’m currently learning how to use Docker for RoR applications.
 
 💬 Ask me about: programming, books, series and Star Wars.
 
 😄 Pronouns: he/him
 
-🧠 Languages/Frameworks: Ruby, Ruby on Rails, SQL, HTML/CSS, JavaScript, Vue.js and TypeScript.
+🧠 Languages/Frameworks: Ruby, Ruby on Rails, SQL, HTML/CSS, JavaScript, React, Vue.js and TypeScript.
 
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gfleibel&layout=compact">
 
