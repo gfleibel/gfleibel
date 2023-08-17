@@ -9,8 +9,8 @@ I am a former marketing professional, currently transitioning to a career in tec
 
 💻 I’m currently working on Web Development using Ruby on Rails.
 
-🧑‍🎓 I’m currently learning how to use Docker for RoR applications.
-
+🧑‍🎓 I’m currently learning Java, Spring Boot, JPA, Hibernate & MongoDB.
+  
 💬 Ask me about: programming, books, series and Star Wars.
 
 😄 Pronouns: he/him
@@ -19,6 +19,6 @@ I am a former marketing professional, currently transitioning to a career in tec
 
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gfleibel&layout=compact">
 
-🔨 Tools: Git, GitHub, TDD(RSpec), Heroku, Redis, Sidekiq, Cloudinary, Algolia, Bootstrap
+🔨 Tools: Git, GitHub, TDD(RSpec), Heroku, Redis, Sidekiq, Cloudinary, Algolia, Bootstrap, Docker
 
  📫 How to reach me: gfleibel@hotmail.com
