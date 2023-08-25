@@ -7,7 +7,7 @@ I am a former marketing professional, currently transitioning to a career in tec
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://troopl.com/gfleibel)](https://troopl.com/gfleibel)
 
 
-💻 I’m currently working on Web Development using Ruby on Rails.
+💻 I’m currently working on software development with Vue.js and Node.
 
 🧑‍🎓 I’m currently learning Java, Spring Boot, JPA, Hibernate & MongoDB.
   
