@@ -8,7 +8,7 @@ I am a former marketing professional, working as a full stack developer! I am al
 
 💻 I’m currently working on software development with Vue.js and Node.
 
-🧑‍🎓 I’m currently learning Java, Spring Boot, JPA, Hibernate & MongoDB.
+🧑‍🎓 I’m currently learning Node.js APIs using Restify.
   
 💬 Ask me about: programming, books, series and Star Wars.
 
