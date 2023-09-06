@@ -6,18 +6,18 @@ I am a former marketing professional, working as a full stack developer! I am al
 [![Gmail Badge](https://img.shields.io/badge/-gfleibel@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gfleibel@hotmail.com)](mailto:gfleibel@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://troopl.com/gfleibel)](https://troopl.com/gfleibel)
 
-💻 I’m currently working on software development with Vue.js and Node.
+💻 I’m currently working @ ZNAP Technologies as a full stack software development using Node.js.
 
-🧑‍🎓 I’m currently learning Node.js APIs using Restify.
+🧑‍🎓 I’m currently studying Node.js APIs using Restify.
   
 💬 Ask me about: programming, books, series and Star Wars.
 
 😄 Pronouns: he/him
 
-🧠 Languages/Frameworks: Ruby, Ruby on Rails, SQL, HTML/CSS, JavaScript, React, Vue.js and TypeScript.
+🧠 Languages/Frameworks: Ruby, Ruby on Rails, SQL, HTML/CSS, JavaScript, Node.js, React, Vue.js and TypeScript.
 
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gfleibel&layout=compact">
 
-🔨 Tools: Git, GitHub, TDD(RSpec), Heroku, Redis, Sidekiq, Cloudinary, Algolia, Bootstrap, Docker
+🔨 Tools: Git, GitHub, TDD(RSpec), Heroku, Redis, Sidekiq, Cloudinary, Algolia, Bootstrap, Docker, PM2 and Restify.
 
  📫 How to reach me: gfleibel@hotmail.com
